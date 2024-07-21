@@ -1,4 +1,4 @@
-# Madhav_Store_PowerBI_Dashboard
+# Store_PowerBI_Dashboard
 Professional Power Bi Dashboard
 
 
