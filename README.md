@@ -1,4 +1,6 @@
-# Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+# Madhav_Store_PowerBI_Dashboard
+Professional Power Bi Dashboard
 
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+Complete Power BI project using retail store sales data 
+
+Watch tutorial video on YouTube :)
